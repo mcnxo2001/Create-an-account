@@ -65,7 +65,7 @@ body{
     z-index: 1;
     height:300px;
     width:300px;
-    border-radius: 1.5rem;
+    border-radius: 2rem;
     transform: rotate(45deg);
     top: -80px;
     left:-100px
@@ -76,7 +76,7 @@ body{
     z-index: 1;
     height:300px;
     width:300px;
-    border-radius: 1.5rem;
+    border-radius: 2rem;
     transform: rotate(45deg);
     margin-top: 420px;
     margin-left: 500px;
